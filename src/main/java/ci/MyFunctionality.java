@@ -6,6 +6,7 @@ public class MyFunctionality {
     }
     
     public int getTen(){
+       System.out.println("HEJ");
        
         return 10;
         
